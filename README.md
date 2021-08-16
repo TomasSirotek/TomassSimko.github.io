@@ -26,7 +26,8 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2021-08-15 at 21 45 03](https://user-images.githubusercontent.com/72190589/129490681-533ce60e-e67c-4585-bad5-1ae4971afa2d.png)
-![Mobile First](https://user-images.githubusercontent.com/72190589/129610616-5f0e296f-dd70-4e00-9652-9bb485316afe.png)
+
+![Mobile First](https://user-images.githubusercontent.com/72190589/129613609-8ba924c8-9821-4966-9f4a-80677df20d8f.png)
 
 ### Links
 
