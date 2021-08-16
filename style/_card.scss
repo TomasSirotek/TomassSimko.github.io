@@ -1,0 +1,65 @@
+.card {
+  border-radius: 23px !important;
+
+  &__headerImg {
+    border-top-left-radius: 23px;
+    border-top-right-radius: 23px;
+  }
+  .card-body {
+    &__text {
+      margin-top: 4%;
+    }
+
+    .btn {
+      margin: 3%;
+    }
+    .btn-primary {
+      background: $BrightBlue !important;
+      color: white;
+      border-radius: 10px;
+      padding: 3%;
+      box-shadow: 0 2px 1px rgba(56, 41, 224, 0.09),
+        0 4px 2px rgba(56, 41, 224, 0.09), 0 8px 4px rgba(56, 41, 224, 0.09),
+        0 16px 8px rgba(56, 41, 224, 0.09), 0 24px 12px rgba(56, 41, 224, 0.09);
+      &:hover {
+        background: $PaleBlue !important;
+        border: none !important;
+        border-color: none;
+      }
+    }
+    .card-link {
+      color: $DesaturatedBlue;
+      font-weight: 700;
+      &:hover {
+        color: black !important;
+      }
+    }
+  }
+  .card_plan {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: $VeryPaleBlue;
+    border-radius: 14px;
+    margin: 0.875rem;
+    padding: 1rem;
+    &__info {
+      display: flex;
+      flex-direction: column;
+      flex-grow: 2;
+      padding-left: 1rem;
+      > span {
+        color: $DarkBlue;
+        font-weight: 900;
+
+        &:not(:first-child) {
+          color: $DesaturatedBlue;
+          font-weight: 500;
+        }
+      }
+    }
+    a {
+      color: $BrightBlue;
+    }
+  }
+}
