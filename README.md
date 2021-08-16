@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2021-08-15 at 21 45 03](https://user-images.githubusercontent.com/72190589/129490681-533ce60e-e67c-4585-bad5-1ae4971afa2d.png)
-![Mobile First](https://user-images.githubusercontent.com/72190589/129547306-760e3d51-fca4-4cd9-b3b5-d14f6a93f80a.png")
+![Mobile First](https://user-images.githubusercontent.com/72190589/129610616-5f0e296f-dd70-4e00-9652-9bb485316afe.png)
 
 ### Links
 
@@ -45,19 +45,30 @@ Users should be able to:
 
 ### What I learned
 
-#### Removing Default Space Below Image
+#### Bootstrap Framework
 
-To avoid having a small margin below an image that is inside of a wrapping element, make the image `display: block` instead of the default `display: inline-block`.
+Using card component shorted the process of development. Using Flex within Bootstrap helped me quickly manage the layout, alignment and sizing of grid columns. I have found out Bootstrap really useful even in other projects I will study and research more of this framework .
 
-### Continued development
+#### HTML Component Structure
 
-While I was able to add a basic box-shadow to the call-to-action button and the card element, I felt that my box-shadow was not as refined as the design example. I researched and used box-shadows examples that I found on the internet (documented below). For future development, I will study design best practices for box-shadows.
+Within building this projects I have learnered how to properly write and style basic structure of the component from Bootstrap .
+
+### Sass 
+
+Creating style for the component I have learned basics of Sass where I was able to seperate all the scss files and created simple individual files and use basics like Nesting etc.. . Using sass was benefit for the whole work flow and made the code with the bootstrap framework shorter and better readable.
+
+### !important
+
+ To overwrite default components or div within bootstrap I had to use !important. From what I found out and learned is not always good idea to do. An alternative way might be moving all utilities to the end of css order. That would override most of the other global specificity or general utilities.
+
 
 ### Useful resources
 
-- [Smoother Box Shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) - This helped me improve the appearance of my box-shadows on the call-to-action button and card components.
+- [Bootstrap Flex](https://getbootstrap.com/docs/5.1/utilities/flex/) - This helped me improve the appearance of the component on the page.
+
+- [!Important](https://css-tricks.com/when-using-important-is-the-right-choice/) - This article helped me better understand !Important use.
 
 ## Author
 
-- Website - [TomasSimko]()
+- Website - [TomasSimko](https://github.com/TomassSimko/TomassSimko.github.io)
 - Frontend Mentor - [@TomasisBOSS](https://www.frontendmentor.io/profile/TomasisBOSS)
