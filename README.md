@@ -26,12 +26,12 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2021-08-15 at 21 45 03](https://user-images.githubusercontent.com/72190589/129490681-533ce60e-e67c-4585-bad5-1ae4971afa2d.png)
-![]()
+![Mobile First](https://user-images.githubusercontent.com/72190589/129547306-760e3d51-fca4-4cd9-b3b5-d14f6a93f80a.png")
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/TomassSimko/fem-order-summary-component)
-- Live Site URL: [GitHub Pages]()
+- Live Site URL: [GitHub Pages](https://tomasssimko.github.io/)
 
 ## My process
 
@@ -60,4 +60,4 @@ While I was able to add a basic box-shadow to the call-to-action button and the 
 ## Author
 
 - Website - [TomasSimko]()
-- Frontend Mentor - [@addName]()
+- Frontend Mentor - [@TomasisBOSS](https://www.frontendmentor.io/profile/TomasisBOSS)
