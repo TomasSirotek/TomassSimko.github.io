@@ -38,7 +38,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS3 custom properties
+- Bootstrap
+- SASS
 - Flexbox
 - Mobile-first workflow
 
