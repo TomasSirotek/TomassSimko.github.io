@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/TomassSimko/fem-order-summary-component)
+- Solution URL: [GitHub](https://github.com/TomassSimko/TomassSimko.github.io)
 - Live Site URL: [GitHub Pages](https://tomasssimko.github.io/)
 
 ## My process
